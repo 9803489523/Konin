@@ -1,0 +1,15 @@
+D:\Orders\C#\Konin\Konin\bin\Debug\net6.0\Konin.exe
+D:\Orders\C#\Konin\Konin\bin\Debug\net6.0\Konin.deps.json
+D:\Orders\C#\Konin\Konin\bin\Debug\net6.0\Konin.runtimeconfig.json
+D:\Orders\C#\Konin\Konin\bin\Debug\net6.0\Konin.dll
+D:\Orders\C#\Konin\Konin\bin\Debug\net6.0\ref\Konin.dll
+D:\Orders\C#\Konin\Konin\bin\Debug\net6.0\Konin.pdb
+D:\Orders\C#\Konin\Konin\obj\Debug\net6.0\Konin.csproj.AssemblyReference.cache
+D:\Orders\C#\Konin\Konin\obj\Debug\net6.0\Konin.GeneratedMSBuildEditorConfig.editorconfig
+D:\Orders\C#\Konin\Konin\obj\Debug\net6.0\Konin.AssemblyInfoInputs.cache
+D:\Orders\C#\Konin\Konin\obj\Debug\net6.0\Konin.AssemblyInfo.cs
+D:\Orders\C#\Konin\Konin\obj\Debug\net6.0\Konin.csproj.CoreCompileInputs.cache
+D:\Orders\C#\Konin\Konin\obj\Debug\net6.0\Konin.dll
+D:\Orders\C#\Konin\Konin\obj\Debug\net6.0\ref\Konin.dll
+D:\Orders\C#\Konin\Konin\obj\Debug\net6.0\Konin.pdb
+D:\Orders\C#\Konin\Konin\obj\Debug\net6.0\Konin.genruntimeconfig.cache
